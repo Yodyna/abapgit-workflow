@@ -8,4 +8,5 @@
 
 REPORT ZPROGRAM_HELLO_WORLD.
 
-write: 'Hello world2'.
+write: 'Hello world3'.
+write: 'Dodano scheme'.
