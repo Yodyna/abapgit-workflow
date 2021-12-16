@@ -8,4 +8,4 @@
 
 REPORT ZPROGRAM_HELLO_WORLD.
 
-write: 'Hello world'.
+write: 'Hello world2'.
